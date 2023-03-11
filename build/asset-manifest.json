@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sandeepdpagade/text-editor.git/static/css/main.aa69eff4.css",
+    "main.js": "/sandeepdpagade/text-editor.git/static/js/main.e76fd086.js",
+    "index.html": "/sandeepdpagade/text-editor.git/index.html",
+    "main.aa69eff4.css.map": "/sandeepdpagade/text-editor.git/static/css/main.aa69eff4.css.map",
+    "main.e76fd086.js.map": "/sandeepdpagade/text-editor.git/static/js/main.e76fd086.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa69eff4.css",
+    "static/js/main.e76fd086.js"
+  ]
+}
